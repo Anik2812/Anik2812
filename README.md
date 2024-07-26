@@ -84,6 +84,7 @@ while True:
 
 - 🐙 [GitHub](https://github.com/Anik2812)
 - 🔗 [LinkedIn](https://linkedin.com/in/Anik2812)
+- 🐦 [Twitter](https://x.com/CipherXero)
 
 <div align="center">
   "In the universe of code, every bug is just an undiscovered feature." - Anik
