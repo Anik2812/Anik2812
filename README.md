@@ -51,6 +51,12 @@ T         C T           G
   | Next.js      | ███░░░░░░░ 30%  | React Realm Expansion |
 </details>
 
+<div align="center">
+  
+## 30 Nites Of Code
+  [Check out my progress!](https://www.codedex.io/@Anik2812/30-nites-of-code)  
+  ![@Anik2812 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Anik2812)
+</div>
 
 ## 🎨 The Art of Code: My Masterpiece
 
