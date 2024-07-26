@@ -53,7 +53,7 @@ T         C T           G
 
 <div align="center">
   
-## 30 Nites Of Code
+## #30NitesOfCode
   [Check out my progress!](https://www.codedex.io/@Anik2812/30-nites-of-code)  
   ![@Anik2812 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Anik2812)
 </div>
