@@ -80,6 +80,11 @@ while True:
 ```
 </details>
 
+## My github commit streak
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anik2812&" alt="Anik2812" /></p>
+
+
 ## 🌐 My Digital Footprints
 
 - 🐙 [GitHub](https://github.com/Anik2812)
