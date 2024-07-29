@@ -81,9 +81,12 @@ while True:
 </details>
 
 ## My github commit streak
+<div align="center">
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anik2812&" alt="Anik2812" /></p>
-
+  ![Anik2812's Stats](https://github-readme-stats.vercel.app/api?username=Anik2812&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+  ![Anik2812's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anik2812&theme=chartreuse-dark&hide_border=true)
+  ![Anik2812's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anik2812&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+</div>
 
 ## 🌐 My Digital Footprints
 
